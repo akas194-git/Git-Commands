@@ -1,7 +1,7 @@
 Git Commands
-============
+============###########################
 
-_A list of my commonly used Git commands_
+_A list of my commonly used Git commands.New updates are made_
 
 *If you are interested in my Git aliases, have a look at my `.bash_profile`, found here: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
 
